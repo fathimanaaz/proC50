@@ -1,0 +1,23 @@
+
+body{
+    background-color: rgb(221, 240, 240);
+}
+h1 {
+    color:rgb(221, 240, 240)
+}
+
+.header{
+    background-color:rgb(17, 75, 102);
+    display:flex;
+    justify-content:space-between;
+}
+
+.grid{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+}
+
+/*p,h2{
+    text-align:center;
+}*/
